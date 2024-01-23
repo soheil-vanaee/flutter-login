@@ -20,5 +20,5 @@ This is a simple Flutter application for user authentication, featuring a login 
 Include any additional screenshots or images here if needed.
 
 ## Author
-- [Your Name](https://github.com/soheil-vanaee)
+- [soheil vanaee 💻](https://github.com/soheil-vanaee)
 
