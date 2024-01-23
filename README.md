@@ -1,6 +1,6 @@
 # Flutter Login
 
-![App Screenshot](screenshot/flutter_login_screenshot.png)
+![App Screenshot](screenshot/login.png)
 
 ## Description
 This is a simple Flutter application for user authentication, featuring a login page with various authentication options.
