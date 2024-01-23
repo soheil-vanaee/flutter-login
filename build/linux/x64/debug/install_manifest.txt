@@ -1,0 +1,17 @@
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/mytest_app
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/loginIll.png
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/loginIll%20copy.png
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/header%20copy.jpg
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/header.jpg
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/soheil/mytest_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

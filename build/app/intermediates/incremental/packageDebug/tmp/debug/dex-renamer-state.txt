@@ -1,0 +1,4 @@
+#Tue Jan 23 14:28:52 IRST 2024
+base.0=/home/soheil/mytest_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
